@@ -44,7 +44,7 @@ If you're a fellow learner, researcher, or developer, feel free to explore the n
 
 - GitHub: [saberabanu0001](https://github.com/saberabanu0001)
 - Kaggle: [Sabera Banu](https://www.kaggle.com/saberabanu)
-- LinkedIn: [Sabera Banu]((https://www.linkedin.com/in/sabera-banu-6047a02b3/))
+- LinkedIn: [Sabera Banu](https://www.linkedin.com/in/sabera-banu-6047a02b3/)
 - Email: saberabanu677@gmail.com 
 
 ---
